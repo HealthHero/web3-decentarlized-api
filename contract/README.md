@@ -1,3 +1,0 @@
-## Smart contracts
-
-cargo build
